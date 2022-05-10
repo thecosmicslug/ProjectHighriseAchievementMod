@@ -7,7 +7,9 @@ After seeing a game-mod called `ProjectHighrise-TDEnhancementPack`
 I knew it was possible to create more than just custom rooms, and I owe many thanks to the author for sharing his code!
 
 I have never modded a game that doesn't support loading mod dlls, that is why this project uses BepInEx.
-Using the Harmony hooking libary we are able to enable achievements when using mods! 
+Using the Harmony hooking libary we are able to enable achievements when using mods!
+
+NOTE: Achievements will still be disabled for unlimited-mode (sandbox) and for the tutorials. I just wanted more variety in how my towers look, I'm not a total cheater!
 
 Thanks to: 
 * `BepInEx` (https://github.com/BepInEx/BepInEx)
