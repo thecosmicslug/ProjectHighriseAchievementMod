@@ -11,6 +11,8 @@
 
 ## Development:
 
+* I use VSCode on linux for development, scripts will need to be altered for Windows.
+
 * Edit SteamDir.user  to point to steam libary location. (for Project Highrise installation path)
     
 * Publicize Assembly-CSharp.dll so we can access the methods, and place in ./deps/lib/
